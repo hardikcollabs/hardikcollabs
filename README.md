@@ -48,7 +48,7 @@ I’m involved across the different sides of building the venture — from under
   *Bachelor of Technology - B.Tech, Mechanical Engineering (2025 – 2029)*
 
 ---
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="hardikdrafts" data-description="Support me on Buy me a coffee!" data-message="" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
 
 ### 📬 Connect & Collaborate
 
